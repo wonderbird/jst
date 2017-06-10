@@ -1,0 +1,6 @@
+!define TEST_SYSTEM {slim}
+!path /Users/stefan/Documents/src/jst/out/test/jst
+
+|import            |
+|fitnesse.slim.test|
+|de.boos           |

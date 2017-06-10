@@ -1,6 +1,5 @@
 !1 Welcome to the Java Standard Template (JST)!
 
-!2 Overview
 !contents -R2 -g -p -f -h
 
 !note Release ${FITNESSE_VERSION}

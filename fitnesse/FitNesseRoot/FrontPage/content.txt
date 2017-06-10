@@ -3,5 +3,4 @@
 !2 Overview
 !contents -R2 -g -p -f -h
 
-Go to the FrontPage.OriginalFrontPage which shows some documentation about [[FitNesse][http://www.fitnesse.org]]
 !note Release ${FITNESSE_VERSION}

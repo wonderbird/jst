@@ -1,8 +1,11 @@
-import static org.junit.jupiter.api.Assertions.*;
+package de.boos;
 
-/**
- * Created by stefan on 10.06.17.
- */
+import org.junit.jupiter.api.Test;
+
 class MainTest {
+    @Test
+    void main() {
+        Main.main(null);
+    }
 
 }

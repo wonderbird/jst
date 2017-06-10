@@ -1,7 +1,10 @@
-package de.boos.fitnesse;
+package de.boos;
 
-public class CheckFitNesseInstallation {
-    public boolean FitNesseHasBeenSetUpCorrectly() {
+public class CheckFitnesseInstallation {
+    public CheckFitnesseInstallation() {
+    }
+
+    public boolean FitnesseHasBeenSetUpCorrectly() {
         return true;
     }
 }

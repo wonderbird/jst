@@ -1,6 +1,6 @@
 ---
 Help: Initialize the test suite
-Test
+Static
 ---
 !define TEST_SYSTEM {slim}
 !path /Users/stefan/Documents/src/jst/out/test/jst

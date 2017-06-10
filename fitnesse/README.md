@@ -1,7 +1,7 @@
 # FitNesse
 
-This directory contains the FitNesse binaries and fixtures connecting
-FitNesse to the code.
+This directory contains the FitNesse binaries and test pages. The
+fixtures are located in the jst/fixtures folder.
 
 ## Starting FitNesse
 

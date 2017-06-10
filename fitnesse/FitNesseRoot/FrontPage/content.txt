@@ -2,6 +2,6 @@
 
 !contents -R2 -g -p -f -h
 
-Check the overrides defined in the [[root]] page.
+Check the overrides defined in the [[root][root]] page.
 
 !note Release ${FITNESSE_VERSION}

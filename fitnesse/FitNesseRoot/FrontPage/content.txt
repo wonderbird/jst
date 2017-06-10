@@ -1,0 +1,7 @@
+!1 Welcome to the Java Standard Template (JST)!
+
+!!Table of Contents
+
+
+Go to the FrontPage.OriginalFrontPage which shows some documentation about [[FitNesse][http://www.fitnesse.org]]
+!note Release ${FITNESSE_VERSION}

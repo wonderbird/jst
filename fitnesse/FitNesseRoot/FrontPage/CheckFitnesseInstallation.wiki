@@ -1,2 +1,6 @@
+---
+Help: Ensure FitNesse has been set up correctly
+Test
+---
 |script|Check FitNesse Installation       |
 |ensure|FitNesse has been set up correctly|

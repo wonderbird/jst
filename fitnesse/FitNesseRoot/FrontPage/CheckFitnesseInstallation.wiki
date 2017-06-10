@@ -9,5 +9,5 @@ Test
 |fitnesse.slim.test|
 |de.boos           |
 
-|script|CheckFitNesseInstallation |
+|script|Check Fit Nesse Installation |
 |ensure|FitNesse has been set up correctly|

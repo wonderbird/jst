@@ -1,0 +1,2 @@
+|script|Check FitNesse Installation       |
+|ensure|FitNesse has been set up correctly|

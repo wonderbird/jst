@@ -2,5 +2,10 @@
 Help: Ensure FitNesse has been set up correctly
 Test
 ---
+This test ensures that the fixture has been compiled correctly.
+This FitNesse wiki is configured such that it uses SLIM by default.
+The classpath has been set to point to the fixture output directory.
+More details can be read on the [[root][root]] page.
+
 |script|Check Fitnesse Installation       |
 |ensure|Fitnesse has been set up correctly|

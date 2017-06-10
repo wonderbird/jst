@@ -2,7 +2,8 @@
 Help: Ensure FitNesse has been set up correctly
 Test
 ---
-!define TEST_SYSTEM {slim} 
+!define TEST_SYSTEM {slim}
+!path /Users/stefan/Documents/src/jst/src/de/boos/fitnesse
 
 |script|Check FitNesse Installation       |
 |ensure|FitNesse has been set up correctly|

@@ -5,5 +5,9 @@ Test
 !define TEST_SYSTEM {slim}
 !path /Users/stefan/Documents/src/jst/out/test/jst
 
-|script|de.boos.CheckFitnesseInstallation |
+|import            |
+|fitnesse.slim.test|
+|de.boos           |
+
+|script|Check Fitnesse Installation |
 |ensure|FitNesse has been set up correctly|

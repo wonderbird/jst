@@ -1,1 +1,7 @@
-Hello World
+!define TEST_SYSTEM {slim}
+
+Change the default port to avoid conflicts
+!define SLIM_PORT {62123}
+
+Classpath
+!path /Users/stefan/Documents/src/jst/out/test/jst

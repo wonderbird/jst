@@ -2,5 +2,7 @@
 Help: Ensure FitNesse has been set up correctly
 Test
 ---
+!define TEST_SYSTEM {slim} 
+
 |script|Check FitNesse Installation       |
 |ensure|FitNesse has been set up correctly|

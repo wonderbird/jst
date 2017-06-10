@@ -10,4 +10,4 @@ Test
 |de.boos           |
 
 |script|Check Fit Nesse Installation |
-|ensure|FitNesse has been set up correctly|
+|ensure|Fit Nesse has been set up correctly|

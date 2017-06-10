@@ -2,6 +2,6 @@
 
 !contents -R2 -g -p -f -h
 
-Check the overrides defined in the [[root][root]] page.
+[[The root page][root]] sets up SLIM and the classpath
 
 !note Release ${FITNESSE_VERSION}
